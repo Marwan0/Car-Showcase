@@ -452,3 +452,102 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1253873575
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.691
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8529361819711541673, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 37c4c421cd63ecf488bdbdfb61011cc3, type: 2}
+    - target: {fileID: -6113649878020949508, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 77b426dc8fa49a54f8bb300539b0b664, type: 2}
+    - target: {fileID: -3639538848855172074, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 37c4c421cd63ecf488bdbdfb61011cc3, type: 2}
+    - target: {fileID: 919132149155446097, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_Name
+      value: lamborghini-aventador-pbribl
+      objectReference: {fileID: 0}
+    - target: {fileID: 4218006956367798387, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 77b426dc8fa49a54f8bb300539b0b664, type: 2}
+    - target: {fileID: 7284107280824378328, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 37c4c421cd63ecf488bdbdfb61011cc3, type: 2}
+    - target: {fileID: 7887711447000943196, guid: 211190de37cceac4c84661c937e35efc,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a35620d3b2f705149b38aac4d84265ce, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 211190de37cceac4c84661c937e35efc, type: 3}
