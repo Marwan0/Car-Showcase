@@ -5732,7 +5732,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   disassembleDirection: {x: 0, y: 1, z: 0}
-  disassembleDistanceLimit: 0.5
+  disassembleDistanceLimit: 1
   precedentComponents: []
   OnAssemblyCompletion:
     m_PersistentCalls:
