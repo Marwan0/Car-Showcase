@@ -1722,6 +1722,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1105597699298960662}
+  - component: {fileID: 4263976033164106598}
   m_Layer: 0
   m_Name: GEO_Decals_R_SUB0.001_64
   m_TagString: Untagged
@@ -1744,6 +1745,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4263976033164106598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 615298833748704305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &630391762873413846
 GameObject:
   m_ObjectHideFlags: 0
@@ -2832,6 +2860,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8629896472493938656}
+  - component: {fileID: 2828919734504119097}
   m_Layer: 0
   m_Name: GEO_Door_HR_SUB0.001_42
   m_TagString: Untagged
@@ -2854,6 +2883,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2828919734504119097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 944184517862468970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &980396691703768793
 GameObject:
   m_ObjectHideFlags: 0
@@ -3510,6 +3566,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3501478808942895392}
+  - component: {fileID: 8979997837792032285}
   m_Layer: 0
   m_Name: INT_Plastic_Flat2_SUB0.001_76
   m_TagString: Untagged
@@ -3532,6 +3589,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 76
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8979997837792032285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1215353291726261906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &1235812326781820036
 GameObject:
   m_ObjectHideFlags: 0
@@ -3993,6 +4077,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8005308857830145508}
+  - component: {fileID: 3643357963328837645}
   m_Layer: 0
   m_Name: GEO_rubber_R_SUB2.001_63
   m_TagString: Untagged
@@ -4015,6 +4100,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3643357963328837645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1319733466545885617}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &1355895391906282374
 GameObject:
   m_ObjectHideFlags: 0
@@ -4250,6 +4362,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 503614509039755018}
+  - component: {fileID: 634038150339712547}
   m_Layer: 0
   m_Name: GEO_rubber_L_SUB0.001_27
   m_TagString: Untagged
@@ -4272,6 +4385,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &634038150339712547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1393163169951055754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &1405534640583192729
 GameObject:
   m_ObjectHideFlags: 0
@@ -4620,6 +4760,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8691234648340912381}
+  - component: {fileID: 534292223353610448}
   m_Layer: 0
   m_Name: polymsh108.001_77
   m_TagString: Untagged
@@ -4642,6 +4783,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 77
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &534292223353610448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1567738470298286140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &1597500148364630504
 GameObject:
   m_ObjectHideFlags: 0
@@ -4795,6 +4963,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4805592178497036702}
+  - component: {fileID: 1183022611349962714}
   m_Layer: 0
   m_Name: GEO_Wind_R.001_225
   m_TagString: Untagged
@@ -4817,6 +4986,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 225
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1183022611349962714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1621423711705482153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &1634178052585602285
 GameObject:
   m_ObjectHideFlags: 0
@@ -5936,6 +6132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1469508961683775030}
+  - component: {fileID: 1321485315201967924}
   m_Layer: 0
   m_Name: INT_Plastic_Flat2_SUB3.001_71
   m_TagString: Untagged
@@ -5958,6 +6155,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 71
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1321485315201967924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2085006467106857583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &2097149226329658774
 GameObject:
   m_ObjectHideFlags: 0
@@ -5998,6 +6222,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1115908403973018185}
+  - component: {fileID: 1559819512565603916}
   m_Layer: 0
   m_Name: GEO_window_L.001_216
   m_TagString: Untagged
@@ -6020,6 +6245,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 216
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1559819512565603916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2112997048302962399}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &2125293638047482690
 GameObject:
   m_ObjectHideFlags: 0
@@ -6173,6 +6425,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6441260440951175308}
+  - component: {fileID: 5296927871460258063}
   m_Layer: 0
   m_Name: GEO_Door_HR_SUB5.001_35
   m_TagString: Untagged
@@ -6195,6 +6448,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5296927871460258063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2219156565983521606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &2226382604535442659
 GameObject:
   m_ObjectHideFlags: 0
@@ -6758,6 +7038,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3576155126773799115}
+  - component: {fileID: 7658688345958535404}
   m_Layer: 0
   m_Name: GEO_Door_HR_SUB4.001_38
   m_TagString: Untagged
@@ -6780,6 +7061,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7658688345958535404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2337560630749074113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &2359318517154994620
 GameObject:
   m_ObjectHideFlags: 0
@@ -7128,6 +7436,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8067618124155853248}
+  - component: {fileID: 7612400858526929623}
   m_Layer: 0
   m_Name: GEO_Decals_L_SUB1.001_31
   m_TagString: Untagged
@@ -7150,6 +7459,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7612400858526929623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2448419769550662993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &2448569817512748938
 GameObject:
   m_ObjectHideFlags: 0
@@ -7159,6 +7495,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2693823667747421312}
+  - component: {fileID: 1938945427916349703}
   m_Layer: 0
   m_Name: GEO_Decals_R_SUB1.001_66
   m_TagString: Untagged
@@ -7181,6 +7518,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1938945427916349703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2448569817512748938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &2448570184395977526
 GameObject:
   m_ObjectHideFlags: 0
@@ -7662,6 +8026,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5090761399443839692}
+  - component: {fileID: 5284237694985876783}
   m_Layer: 0
   m_Name: GEO_Door_HR_SUB3.001_41
   m_TagString: Untagged
@@ -7684,6 +8049,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5284237694985876783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2522107015750049414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &2523828380853336822
 GameObject:
   m_ObjectHideFlags: 0
@@ -9756,6 +10148,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1293298541001361247}
+  - component: {fileID: 7028026234776526056}
   m_Layer: 0
   m_Name: GEO_Door_HR_SUB8.001_37
   m_TagString: Untagged
@@ -9778,6 +10171,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7028026234776526056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3056780077906115033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &3070310531143979009
 GameObject:
   m_ObjectHideFlags: 0
@@ -10321,6 +10741,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8672793156048246624}
+  - component: {fileID: 3420895135363245212}
   m_Layer: 0
   m_Name: polymsh99.001_47
   m_TagString: Untagged
@@ -10343,6 +10764,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3420895135363245212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3259732399898019993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &3298332916180877942
 GameObject:
   m_ObjectHideFlags: 0
@@ -11256,6 +11704,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 371049821101340597}
+  - component: {fileID: 9065814516106092596}
   m_Layer: 0
   m_Name: GEO_Door_L_SUB0.001_215
   m_TagString: Untagged
@@ -11278,6 +11727,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 215
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9065814516106092596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3595104327092134868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &3600312516205254222
 GameObject:
   m_ObjectHideFlags: 0
@@ -11626,6 +12102,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3528286230348644431}
+  - component: {fileID: 1642378876261129566}
   m_Layer: 0
   m_Name: INT_Plastic_Flat2_SUB5.001_72
   m_TagString: Untagged
@@ -11648,6 +12125,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 72
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1642378876261129566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3742086708252076544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &3746958900606618700
 GameObject:
   m_ObjectHideFlags: 0
@@ -11894,6 +12398,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9205675501439945311}
+  - component: {fileID: 7718790330383892235}
   m_Layer: 0
   m_Name: polymsh8.001_127
   m_TagString: Untagged
@@ -11916,6 +12421,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 127
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7718790330383892235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3858172701463377415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &3868602936447970653
 GameObject:
   m_ObjectHideFlags: 0
@@ -12007,6 +12539,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7706743546517366450}
+  - component: {fileID: 3311864778759463404}
   m_Layer: 0
   m_Name: GEO_Door_L_SUB1.001_214
   m_TagString: Untagged
@@ -12029,6 +12562,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 214
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3311864778759463404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3876069384993916963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &3927112044860576475
 GameObject:
   m_ObjectHideFlags: 0
@@ -12038,6 +12598,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3178860879764503944}
+  - component: {fileID: 8438662433644815045}
   m_Layer: 0
   m_Name: GEO_rubber_L_SUB1.001_26
   m_TagString: Untagged
@@ -12060,6 +12621,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8438662433644815045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3927112044860576475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &3977575284101454996
 GameObject:
   m_ObjectHideFlags: 0
@@ -13199,6 +13787,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1907102700277785756}
+  - component: {fileID: 5331142877527835023}
   m_Layer: 0
   m_Name: GEO_Door_HR_SUB6.001_34
   m_TagString: Untagged
@@ -13221,6 +13810,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5331142877527835023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4504785852944686808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &4528318724089323303
 GameObject:
   m_ObjectHideFlags: 0
@@ -13374,6 +13990,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7840970316396513481}
+  - component: {fileID: 2218089691205599323}
   m_Layer: 0
   m_Name: GEO_stich1.001_32
   m_TagString: Untagged
@@ -13396,6 +14013,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2218089691205599323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4587391660536553808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &4593924632428631582
 GameObject:
   m_ObjectHideFlags: 0
@@ -13846,6 +14490,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1155829750329551309}
+  - component: {fileID: 3521125216691263132}
   m_Layer: 0
   m_Name: polymsh111.001_33
   m_TagString: Untagged
@@ -13868,6 +14513,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3521125216691263132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4787129285190736313}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &4799872013645394159
 GameObject:
   m_ObjectHideFlags: 0
@@ -14123,6 +14795,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6180275649028346100}
+  - component: {fileID: 531759359827275786}
   m_Layer: 0
   m_Name: GEO_Door_HR_SUB2.001_39
   m_TagString: Untagged
@@ -14145,6 +14818,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &531759359827275786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4850523584296096860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &4875001485076217789
 GameObject:
   m_ObjectHideFlags: 0
@@ -14185,6 +14885,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8012333794567627328}
+  - component: {fileID: 7236203891981545824}
   m_Layer: 0
   m_Name: GEO_Wind_L.001_217
   m_TagString: Untagged
@@ -14207,6 +14908,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 217
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7236203891981545824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4878528809716187399}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &4916897563628214823
 GameObject:
   m_ObjectHideFlags: 0
@@ -14781,6 +15509,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 239357840104901528}
+  - component: {fileID: 6722012976583074517}
   m_Layer: 0
   m_Name: GEO_rubber_R_SUB1.001_61
   m_TagString: Untagged
@@ -14803,6 +15532,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 61
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6722012976583074517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5080511669090797257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &5085092865168323719
 GameObject:
   m_ObjectHideFlags: 0
@@ -15295,6 +16051,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 746983167232007375}
+  - component: {fileID: 6704142312008339328}
   m_Layer: 0
   m_Name: INT_Plastic_Flat2_SUB6.001_75
   m_TagString: Untagged
@@ -15317,6 +16074,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 75
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6704142312008339328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5210929109493921104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &5214774332031297956
 GameObject:
   m_ObjectHideFlags: 0
@@ -16323,6 +17107,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 219784680747451842}
+  - component: {fileID: 3581907971860312491}
   m_Layer: 0
   m_Name: GEO_rubber_L_SUB2.001_28
   m_TagString: Untagged
@@ -16345,6 +17130,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3581907971860312491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5545393183379871232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &5547233759720068452
 GameObject:
   m_ObjectHideFlags: 0
@@ -16560,6 +17372,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8504080478839076362}
+  - component: {fileID: 8398407193569318948}
   m_Layer: 0
   m_Name: GEO_Decals_L_SUB2.001_29
   m_TagString: Untagged
@@ -16582,6 +17395,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8398407193569318948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5666137773447752629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &5685066090002565951
 GameObject:
   m_ObjectHideFlags: 0
@@ -17484,6 +18324,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8232660002665218809}
+  - component: {fileID: 2816951076487964970}
   m_Layer: 0
   m_Name: GEO_Door_HR_SUB1.001_40
   m_TagString: Untagged
@@ -17506,6 +18347,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2816951076487964970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5865933123231937623}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &5875589453515367961
 GameObject:
   m_ObjectHideFlags: 0
@@ -17546,6 +18414,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1124594643256613617}
+  - component: {fileID: 1756758147143926126}
   m_Layer: 0
   m_Name: GEO_rubber_R_SUB0.001_62
   m_TagString: Untagged
@@ -17568,6 +18437,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1756758147143926126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5905000775893825693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &5950575729174345122
 GameObject:
   m_ObjectHideFlags: 0
@@ -17639,6 +18535,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 454041397306437706}
+  - component: {fileID: 5875313127943161670}
   m_Layer: 0
   m_Name: INT_Plastic_Flat2_SUB8.001_68
   m_TagString: Untagged
@@ -17661,6 +18558,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 68
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5875313127943161670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5988315678497694624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &6019770737676525708
 GameObject:
   m_ObjectHideFlags: 0
@@ -18224,6 +19148,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8922519069693890888}
+  - component: {fileID: 2248349562385630168}
   m_Layer: 0
   m_Name: GEO_Decals_R_SUB2.001_65
   m_TagString: Untagged
@@ -18246,6 +19171,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2248349562385630168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6190959196524295371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &6210535185644308597
 GameObject:
   m_ObjectHideFlags: 0
@@ -18645,6 +19597,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1013536569677513870}
+  - component: {fileID: 1279131477612069316}
   m_Layer: 0
   m_Name: INT_Plastic_Flat2_SUB4.001_70
   m_TagString: Untagged
@@ -18667,6 +19620,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 70
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1279131477612069316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6300064059291516740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &6327437636125719396
 GameObject:
   m_ObjectHideFlags: 0
@@ -18984,6 +19964,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4697758490253337729}
+  - component: {fileID: 8289295266256074993}
   m_Layer: 0
   m_Name: GEO_Door_R_SUB1.001_222
   m_TagString: Untagged
@@ -19006,6 +19987,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 222
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8289295266256074993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6462868440303039929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &6464120626846660280
 GameObject:
   m_ObjectHideFlags: 0
@@ -19795,6 +20803,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4382920758140128023}
+  - component: {fileID: 9192721056695824241}
   m_Layer: 0
   m_Name: GEO_Stich2.001_67
   m_TagString: Untagged
@@ -19817,6 +20826,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 67
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9192721056695824241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6676116103182439671}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &6678975495508174354
 GameObject:
   m_ObjectHideFlags: 0
@@ -20628,6 +21664,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9163192620936912542}
+  - component: {fileID: 1920069228081083624}
   m_Layer: 0
   m_Name: GEO_Door_HR_SUB7.001_36
   m_TagString: Untagged
@@ -20650,6 +21687,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1920069228081083624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6800709696336080660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &6806771980714401010
 GameObject:
   m_ObjectHideFlags: 0
@@ -20662,6 +21726,7 @@ GameObject:
   - component: {fileID: 6806771980714401009}
   - component: {fileID: 6806771980714401008}
   - component: {fileID: 6806771980714401011}
+  - component: {fileID: 7817296452567194447}
   m_Layer: 0
   m_Name: Porsche_911_GT3
   m_TagString: Untagged
@@ -20795,6 +21860,72 @@ MonoBehaviour:
     yawMin: 0
     yawMax: 0
   isOriginPrefsInitialized: 0
+--- !u!114 &7817296452567194447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6806771980714401010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14b36dc2c18d9fc4fa0da764c74ed995, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anatomyComponents:
+  - {fileID: 8438662433644815045}
+  - {fileID: 634038150339712547}
+  - {fileID: 3581907971860312491}
+  - {fileID: 8398407193569318948}
+  - {fileID: 1230996594588047745}
+  - {fileID: 7612400858526929623}
+  - {fileID: 2218089691205599323}
+  - {fileID: 3521125216691263132}
+  - {fileID: 5331142877527835023}
+  - {fileID: 5296927871460258063}
+  - {fileID: 1920069228081083624}
+  - {fileID: 7028026234776526056}
+  - {fileID: 7658688345958535404}
+  - {fileID: 531759359827275786}
+  - {fileID: 2816951076487964970}
+  - {fileID: 5284237694985876783}
+  - {fileID: 2828919734504119097}
+  - {fileID: 3420895135363245212}
+  - {fileID: 6722012976583074517}
+  - {fileID: 1756758147143926126}
+  - {fileID: 3643357963328837645}
+  - {fileID: 4263976033164106598}
+  - {fileID: 2248349562385630168}
+  - {fileID: 1938945427916349703}
+  - {fileID: 9192721056695824241}
+  - {fileID: 5875313127943161670}
+  - {fileID: 6381970531115306022}
+  - {fileID: 1279131477612069316}
+  - {fileID: 1321485315201967924}
+  - {fileID: 1642378876261129566}
+  - {fileID: 5047183907509045111}
+  - {fileID: 1340126584556053927}
+  - {fileID: 6704142312008339328}
+  - {fileID: 8979997837792032285}
+  - {fileID: 534292223353610448}
+  - {fileID: 4869395232098984378}
+  - {fileID: 3311864778759463404}
+  - {fileID: 9065814516106092596}
+  - {fileID: 1559819512565603916}
+  - {fileID: 7236203891981545824}
+  - {fileID: 4991228907459629268}
+  - {fileID: 8289295266256074993}
+  - {fileID: 2442822016027958582}
+  - {fileID: 7681189552424615457}
+  - {fileID: 1183022611349962714}
+  animationSpeed: 1
+  animationEase: 1
+  OnFullyDisassembled:
+    m_PersistentCalls:
+      m_Calls: []
+  OnFullyAssembled:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6816330296081150258
 GameObject:
   m_ObjectHideFlags: 0
@@ -20897,6 +22028,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8502134063524137853}
+  - component: {fileID: 2442822016027958582}
   m_Layer: 0
   m_Name: GEO_Door_R_SUB0.001_223
   m_TagString: Untagged
@@ -20919,6 +22051,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 223
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2442822016027958582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6885452760782912513}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &6889527128210421099
 GameObject:
   m_ObjectHideFlags: 0
@@ -21236,6 +22395,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 769317843640071171}
+  - component: {fileID: 1230996594588047745}
   m_Layer: 0
   m_Name: GEO_Decals_L_SUB0.001_30
   m_TagString: Untagged
@@ -21258,6 +22418,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1230996594588047745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7055804246250907545}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &7117957556335570060
 GameObject:
   m_ObjectHideFlags: 0
@@ -21626,6 +22813,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5783232876639559400}
+  - component: {fileID: 5047183907509045111}
   m_Layer: 0
   m_Name: INT_Plastic_Flat2_SUB2.001_73
   m_TagString: Untagged
@@ -21648,6 +22836,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 73
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5047183907509045111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7249683027715141875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &7270783600592000072
 GameObject:
   m_ObjectHideFlags: 0
@@ -22448,6 +23663,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4440708083544946197}
+  - component: {fileID: 4869395232098984378}
   m_Layer: 0
   m_Name: GEO_Mirror_L.001_213
   m_TagString: Untagged
@@ -22470,6 +23686,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 213
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4869395232098984378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7684638012648068411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: 1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &7713323768442355019
 GameObject:
   m_ObjectHideFlags: 0
@@ -23804,6 +25047,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4713290287003291870}
+  - component: {fileID: 7681189552424615457}
   m_Layer: 0
   m_Name: GEO_window_L1.001_224
   m_TagString: Untagged
@@ -23826,6 +25070,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 224
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7681189552424615457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8160714341253312285}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &8179655926907252753
 GameObject:
   m_ObjectHideFlags: 0
@@ -24872,6 +26143,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 402478911472885826}
+  - component: {fileID: 4991228907459629268}
   m_Layer: 0
   m_Name: GEO_Mirror_R.001_221
   m_TagString: Untagged
@@ -24894,6 +26166,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 221
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4991228907459629268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8697234012630507297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &8720199508375086561
 GameObject:
   m_ObjectHideFlags: 0
@@ -25734,6 +27033,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8761974802264592799}
+  - component: {fileID: 1340126584556053927}
   m_Layer: 0
   m_Name: INT_Plastic_Flat2_SUB1.001_74
   m_TagString: Untagged
@@ -25756,6 +27056,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 74
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1340126584556053927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8991841055949027383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &8994321546507478920
 GameObject:
   m_ObjectHideFlags: 0
@@ -25929,6 +27256,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4220271006275441162}
+  - component: {fileID: 6381970531115306022}
   m_Layer: 0
   m_Name: INT_Plastic_Flat2_SUB7.001_69
   m_TagString: Untagged
@@ -25951,6 +27279,33 @@ Transform:
   m_Father: {fileID: 2045343781387135024}
   m_RootOrder: 69
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6381970531115306022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9081548299021883230}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67edd91f88edc284b8cd7099674b6c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  disassembleDirection: {x: -1, y: 0, z: 0}
+  disassembleDistanceLimit: 2
+  precedentComponents: []
+  OnAssemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDisassemblyCompletion:
+    m_PersistentCalls:
+      m_Calls: []
+  waitingList:
+    m_PersistentCalls:
+      m_Calls: []
+  isAssembleState: 0
+  animationSpeed: 0
+  animationEase: 0
 --- !u!1 &9146397080190227364
 GameObject:
   m_ObjectHideFlags: 0

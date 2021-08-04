@@ -6,7 +6,7 @@ using UnityEngine.Events;
 
 public class ADManager : MonoBehaviour
 {
-    public List<ADComponent> anatomyComponents;
+    public List<ADComponent> anatomyComponents = new List<ADComponent>();
     public float animationSpeed;
     public Ease animationEase;
     public UnityEvent OnFullyDisassembled;
