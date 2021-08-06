@@ -21872,7 +21872,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14b36dc2c18d9fc4fa0da764c74ed995, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anatomyComponents:
+  adComponents:
   - {fileID: 8438662433644815045}
   - {fileID: 634038150339712547}
   - {fileID: 3581907971860312491}
@@ -21908,6 +21908,7 @@ MonoBehaviour:
   - {fileID: 6704142312008339328}
   - {fileID: 8979997837792032285}
   - {fileID: 534292223353610448}
+  - {fileID: 7718790330383892235}
   - {fileID: 4869395232098984378}
   - {fileID: 3311864778759463404}
   - {fileID: 9065814516106092596}

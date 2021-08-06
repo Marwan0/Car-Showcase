@@ -6,7 +6,7 @@ using UnityEngine.Events;
 
 public class ADManager : MonoBehaviour
 {
-    public List<ADComponent> anatomyComponents = new List<ADComponent>();
+    public List<ADComponent> adComponents = new List<ADComponent>();
     public float animationSpeed;
     public Ease animationEase;
     public UnityEvent OnFullyDisassembled;
@@ -17,11 +17,11 @@ public class ADManager : MonoBehaviour
     {
         ADComponent[] anatomyComps = GetComponentsInChildren<ADComponent>();
 
-        anatomyComponents.Clear();
+        adComponents.Clear();
 
         foreach (var comp in anatomyComps)
         {
-            anatomyComponents.Add(comp);
+            adComponents.Add(comp);
         }
 
     }
@@ -29,7 +29,7 @@ public class ADManager : MonoBehaviour
     public void Init()
     {
 
-        foreach (var anatomyComponent in anatomyComponents)
+        foreach (var anatomyComponent in adComponents)
         {
             anatomyComponent.OnAssemblyCompletion.AddListener(declareAssemblingCompletion);
             anatomyComponent.OnDisassemblyCompletion.AddListener(declareDisassemblingCompletion);
@@ -39,7 +39,7 @@ public class ADManager : MonoBehaviour
     [ContextMenu("disassemble")]
     public void disassemble()
     {
-        foreach (var anatomyComponent in anatomyComponents)
+        foreach (var anatomyComponent in adComponents)
         {
             //var movementVector = ( component.deAssembleDirection * component.deAssembleDistanceLimit);
             //component.transform.DOLocalMove (movementVector, animationSpeed, false).SetEase(animationEase).SetSpeedBased();
@@ -51,7 +51,7 @@ public class ADManager : MonoBehaviour
     [ContextMenu("assemble")]
     public void assemble()
     {
-        foreach (var anatomyComponent in anatomyComponents)
+        foreach (var anatomyComponent in adComponents)
         {
             anatomyComponent.assemble(animationSpeed, animationEase);
         }
@@ -59,7 +59,7 @@ public class ADManager : MonoBehaviour
 
     public void declareDisassemblingCompletion()
     {
-        foreach (var anatomyComponent in anatomyComponents)
+        foreach (var anatomyComponent in adComponents)
         {
             if (anatomyComponent.isAssembleState) return;
         }
@@ -68,7 +68,7 @@ public class ADManager : MonoBehaviour
 
     public void declareAssemblingCompletion()
     {
-        foreach (var anatomyComponent in anatomyComponents)
+        foreach (var anatomyComponent in adComponents)
         {
             if (!anatomyComponent.isAssembleState) return;
         }
